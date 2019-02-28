@@ -1,7 +1,7 @@
 #!/usr/bin/python
 # -*- coding:utf-8 -*-
 """
-@author: weifulong@360.net
+@author: wfl
 @file: __init__.py.py
 @time: 2019/2/27 18:46
 @description: 
